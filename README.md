@@ -6,4 +6,4 @@ Public repo for Harvard CS 283 (Fall 2021).
 
 | Assignment    | Released | Due     | Notebook                                                                                                        |
 |---------------|----------|---------|-----------------------------------------------------------------------------------------------------------------|
-| Problem Set 1 | 9/8/21   | 9/15/21 | <a href="https://colab.research.google.com/drive/10dleB7f3QX2wdrP5EEDTd2pzIjnvq3a8?usp=sharing" download>pset1.ipynb</a> |
+| Problem Set 1 | 9/8/21   | 9/15/21 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10dleB7f3QX2wdrP5EEDTd2pzIjnvq3a8?usp=sharing)|
