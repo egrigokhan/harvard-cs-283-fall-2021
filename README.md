@@ -1,6 +1,9 @@
 # harvard-cs-283-fall-2021
 Public repo for Harvard CS 283 (Fall 2021).
 
+# Assignments
+### Currently released assignments can be found here. 
+
 | Assignment    | Released | Due     | Notebook                                                                                                        |
 |---------------|----------|---------|-----------------------------------------------------------------------------------------------------------------|
-| Problem Set 1 | 9/8/21   | 9/15/21 | <a href="https://github.com/egrigokhan/harvard-cs-283-fall-2021/blob/main/pset1.ipynb" download>pset1.ipynb</a> |
+| Problem Set 1 | 9/8/21   | 9/15/21 | <a href="https://colab.research.google.com/drive/10dleB7f3QX2wdrP5EEDTd2pzIjnvq3a8?usp=sharing" download>pset1.ipynb</a> |
