@@ -1,8 +1,8 @@
 # harvard-cs-283-fall-2021
 Public repo for Harvard CS 283 (Fall 2021).
 
-# Assignments
-### Currently released assignments can be found here. 
+## Assignments
+Currently released assignments can be found below. Once you open them in Google Colab, make sure to go to `File > Save a copy in Drive` to make sure that your edits are saved.
 
 | Assignment    | Released | Due     | Notebook                                                                                                        |
 |---------------|----------|---------|-----------------------------------------------------------------------------------------------------------------|
